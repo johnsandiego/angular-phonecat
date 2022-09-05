@@ -3,7 +3,7 @@
 describe('phoneDetail', function() {
 
   // Load the module that contains the `phoneDetail` component before each test
-  beforeEach(module('phoneDetail'));
+  //beforeEach(module('phoneDetail'));
 
   // Test the controller
   describe('PhoneDetailController', function() {
